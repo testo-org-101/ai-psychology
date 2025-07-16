@@ -40,10 +40,11 @@ Submit the final project as a PDF document via the online submission portal by t
 
 ## Contributors
 
-- Hanna Akhramchuk
-- Doina Fitchevici
+- [Hanna Akhramchuk](https://github.com/akhhanna20)
+- [Doina Fitchevici](https://github.com/DoinaFitchevici)
+- [Tom Rau](https://github.com/hifilorau)
 
 ---
 
-*Created by: Tammam Alwafai*
+*Created by: [Tammam Alwafai](https://github.com/1992tw)*
 *Last updated: 7/16/2025*
