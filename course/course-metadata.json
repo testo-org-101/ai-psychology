@@ -1,0 +1,42 @@
+{
+  "id": "68782d3f4883b480e4222352",
+  "title": "AI Psychology",
+  "description": "This course explores the intersection of artificial intelligence and psychology, providing students with a comprehensive understanding of how AI technologies are developed with psychological principles.",
+  "learningObjectives": [
+    "Understand the fundamental principles of psychology applied in AI",
+    "Learn about the key AI technologies and their psychological origins",
+    "Explore how AI can be used in psychological research",
+    "Discuss ethical considerations surrounding the use of AI in psychology"
+  ],
+  "finalProjectDetails": {
+    "overview": "For the final project, students will develop a research proposal that utilizes AI in a psychological research context of their choosing.",
+    "planningResources": [
+      "Research proposal guidelines",
+      "Sample proposals",
+      "AI-Psychology article database"
+    ],
+    "submissionInstructions": "Submit the final project as a PDF document via the online submission portal by the end of week 8 of the course.",
+    "requirements": [
+      ""
+    ]
+  },
+  "createdBy": {
+    "name": "Tammam Alwafai",
+    "githubUsername": "1992tw"
+  },
+  "contributors": [
+    {
+      "name": "Hanna Akhramchuk",
+      "githubUsername": "akhhanna20"
+    },
+    {
+      "name": "Doina Fitchevici",
+      "githubUsername": "DoinaFitchevici"
+    }
+  ],
+  "status": "pending",
+  "originalGithubUrl": null,
+  "createdAt": "2025-07-16T22:52:47.341Z",
+  "updatedAt": "2025-07-16T22:52:47.341Z",
+  "remoteGithubUrl": "https://github.com/testo-org-101/ai-psychology"
+}
