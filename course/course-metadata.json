@@ -32,11 +32,15 @@
     {
       "name": "Doina Fitchevici",
       "githubUsername": "DoinaFitchevici"
+    },
+    {
+      "name": "Tom Rau",
+      "githubUsername": "hifilorau"
     }
   ],
   "status": "pending",
   "originalGithubUrl": null,
+  "remoteGithubUrl": "https://github.com/testo-org-101/ai-psychology",
   "createdAt": "2025-07-16T22:52:47.341Z",
-  "updatedAt": "2025-07-16T22:52:47.341Z",
-  "remoteGithubUrl": "https://github.com/testo-org-101/ai-psychology"
+  "updatedAt": "2025-07-16T22:54:13.754Z"
 }
